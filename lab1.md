@@ -45,7 +45,10 @@ i) problemy z utrzymaniem wątków.
   Porównując te dwa boty, bot “asystent” jest bardziej rzetelny w swoich odpowiedziach, prowadzi konwersację mniej chaotycznie, rozmowa z nim jest płynna, nie odpowiada kompletnie bez sensu. Sensownie składa zdania, rozwija wypowiedzi. Za to bot udający człowieka jest bardziej nieprzewidywalny w wypowiedziach i lubi trzymać się ciągle jednego tematu, nawet jeśli się chce zmienić temat rozmowy. Często odpowiada kompletnie bez sensu.
   
 4. Na podstawie powyższych obserwacji, w grupie dwóch osób spróbujcie przewidzieć zachowania dwóch rozmawiających ze sobą chatbotów (przepisując ich wzajemne odpowiedzi).
+   
 Boty rozmawiające ze sobą ciągle krążą wokół tych samych tematów, np. ciągle wypytują o swoją płeć i ten wątek ciągle wraca. Nie pamiętają o czym rozmawiali wcześniej i pytają się siebie te same pytania, które padły wcześniej. Ich odpowiedzi często są kompletnie bezsensownie, niezależne od tego co było napisane chwilę wcześniej.  Rozmowa ciągle sprowadza się do wcześniejszych tematów. 
    
-5. Zdenerwuj bota 
+6. Zdenerwuj bota
+
+
 Bot się denerwuje i wyzywa.
