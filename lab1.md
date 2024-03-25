@@ -51,4 +51,4 @@ Boty rozmawiające ze sobą ciągle krążą wokół tych samych tematów, np. c
 6. Zdenerwuj bota
 
 
-Bot się denerwuje i wyzywa.
+Bot udający człowieka denerwuje się i zaczyna pisać wyzwiska lub odmawia dalszej rozmowy. Bot "asystent" nie denerwuje się, konczy rozmowę i zachęca do powrotu do rozmowy, gdy zaistnieje taka potrzeba.
